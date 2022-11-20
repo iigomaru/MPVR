@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stddef.h": "c",
+			"rawdraw_sf.h": "c"
+		}
+	}
+}
